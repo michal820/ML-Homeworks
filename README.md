@@ -1,6 +1,8 @@
 ## Table of contents:
 Assignment 3- logistic regression, kernelization
+
 Assignment 4- neural network with pytorch on mnist fashion data
+
 Assignment 5- kmeans, PCA
 
 ## To Run
